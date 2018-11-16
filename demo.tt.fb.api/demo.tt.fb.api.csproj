@@ -145,9 +145,9 @@
       <Project>{3789B93A-A221-4E50-A33F-9027638CE7B6}</Project>
       <Name>demo.tt.common.rest</Name>
     </ProjectReference>
-    <ProjectReference Include="..\demo.tt.domain.user\demo.tt.domain.user.csproj">
+    <ProjectReference Include="..\demo.tt.domain.users\demo.tt.domain.users.csproj">
       <Project>{DA0824EC-47A1-4565-A8CE-25FA1D7E6163}</Project>
-      <Name>demo.tt.domain.user</Name>
+      <Name>demo.tt.domain.users</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

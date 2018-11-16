@@ -208,9 +208,9 @@
       <Project>{8CC8D8F8-7CD3-4C64-8B53-A2FE42D8E384}</Project>
       <Name>demo.tt.common.dataaccess</Name>
     </ProjectReference>
-    <ProjectReference Include="..\demo.tt.domain.user\demo.tt.domain.user.csproj">
+    <ProjectReference Include="..\demo.tt.domain.users\demo.tt.domain.users.csproj">
       <Project>{DA0824EC-47A1-4565-A8CE-25FA1D7E6163}</Project>
-      <Name>demo.tt.domain.user</Name>
+      <Name>demo.tt.domain.users</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

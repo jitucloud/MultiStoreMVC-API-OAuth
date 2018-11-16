@@ -1,6 +1,6 @@
 ﻿using demo.tt.domain.forms.model;
 using demo.tt.domain.jobs.model;
-using demo.tt.domain.user.model;
+using demo.tt.domain.users.model;
 using System.Data.Entity;
 
 namespace demo.tt.common.dataaccess

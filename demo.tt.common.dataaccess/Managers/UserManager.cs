@@ -1,5 +1,5 @@
 ﻿using demo.tt.common.dataaccess.Interfaces;
-using demo.tt.domain.user.model;
+using demo.tt.domain.users.model;
 using System.Data.Entity;
 using System.Linq;
 using System.Threading.Tasks;
